@@ -83,6 +83,12 @@ ul {
   transform: translateY(-10%)
   }
 
+  .welcome-msg{
+    font-size: 18px;
+    text-align: center;
+    padding: 25px 0;
+  }
+
   .about-img{
       padding-top: 40px;
   }
