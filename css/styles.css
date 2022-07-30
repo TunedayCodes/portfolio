@@ -80,7 +80,7 @@ ul {
     line-height: 1.5;
     background-color: #AEFEFF;
     z-index: 10;
-  transform: translateY(-10%)
+  transform: translateY(-5%)
   }
 
   .welcome-msg{
@@ -90,7 +90,8 @@ ul {
   }
 
   .about-img{
-      padding-top: 40px;
+    width: 350px;
+    margin: 20px 0 0 0;
   }
 
 
